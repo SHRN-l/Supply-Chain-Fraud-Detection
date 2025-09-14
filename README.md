@@ -1,4 +1,4 @@
-<img width="1280" height="922" alt="image" src="https://github.com/user-attachments/assets/fd848a9a-06d3-41f4-a459-8483d25e3335" /><img width="1280" height="922" alt="image" src="https://github.com/user-attachments/assets/ed07bc4c-455c-490e-b690-9438ce19527a" /># Intuition
+# Intuition
 Defective and counterfeit products are a major problem for the automobile and industrial tools industries, compromising vehicle safety, decreasing production efficiency, and leading to frequent equipment breakdowns. This project presents an intelligent platform for selling automotive and industrial parts that integrates blockchain technology with AI-based fraud detection in order to address these issues. The platform offers a mechanism for confirming the authenticity of parts, guaranteeing that any tampering or counterfeiting is prevented as soon as it is discovered.
 
 # Project Description
